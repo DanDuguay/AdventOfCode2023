@@ -1,0 +1,9 @@
+name = "advent_code"
+description = "Shiny new project"
+version = "0.1.0-dev"
+
+authors = ["Dan Duguay"]
+maintainers = ["Dan Duguay <Duguay9@gmail.com>"]
+maintainers-logins = ["danDuguay"]
+
+executables = ["advent_code"]
