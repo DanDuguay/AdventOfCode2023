@@ -1,0 +1,1759 @@
+String_Source: eight 4urdvmbvnj 3ree 2ormzfr4qgdctg
+I: seven
+String_Source: eight 4urdvmbvnj 3ree 2ormzfr4qgdctg
+I: eight
+eightfourdvmbvnjthreetwormzfr4qgdctg
+String_Source:  8ght 4urdvmbvnj 3ree 2ormzfr4qgdctg
+I: nine
+I:  1
+I:  2
+First_Int: 8
+Last_Int: 8
+I:  3
+I:  4
+I:  5
+I:  6
+I:  7
+Last_Int: 4
+I:  8
+I:  9
+I:  10
+I:  11
+I:  12
+I:  13
+I:  14
+I:  15
+I:  16
+I:  17
+I:  18
+Last_Int: 3
+I:  19
+I:  20
+I:  21
+I:  22
+I:  23
+Last_Int: 2
+I:  24
+I:  25
+I:  26
+I:  27
+I:  28
+I:  29
+I:  30
+Last_Int: 4
+I:  31
+I:  32
+I:  33
+I:  34
+I:  35
+I:  36
+Answer: 84
+String_Source: fournngpdffcxt1six
+I: zero
+String_Source: fournngpdffcxt1six
+I: one
+String_Source: fournngpdffcxt1six
+I: two
+String_Source: fournngpdffcxt1six
+I: three
+String_Source: fournngpdffcxt1six
+I: four
+fournngpdffcxt1six
+String_Source:  4urnngpdffcxt1six
+I: five
+String_Source:  4urnngpdffcxt1six
+I: six
+fournngpdffcxt1six
+String_Source:  4urnngpdffcxt1 6x
+I: seven
+String_Source:  4urnngpdffcxt1 6x
+I: eight
+String_Source:  4urnngpdffcxt1 6x
+I: nine
+I:  1
+I:  2
+First_Int: 4
+Last_Int: 4
+I:  3
+I:  4
+I:  5
+I:  6
+I:  7
+I:  8
+I:  9
+I:  10
+I:  11
+I:  12
+I:  13
+I:  14
+I:  15
+Last_Int: 1
+I:  16
+I:  17
+Last_Int: 6
+I:  18
+Answer: 46
+String_Source: seveneight6zeight9
+I: zero
+String_Source: seveneight6zeight9
+I: one
+String_Source: seveneight6zeight9
+I: two
+String_Source: seveneight6zeight9
+I: three
+String_Source: seveneight6zeight9
+I: four
+String_Source: seveneight6zeight9
+I: five
+String_Source: seveneight6zeight9
+I: six
+String_Source: seveneight6zeight9
+I: seven
+seveneight6zeight9
+String_Source:  7veneight6zeight9
+I: eight
+seveneight6zeight9
+String_Source:  7ven 8ght6zeight9
+I: nine
+I:  1
+I:  2
+First_Int: 7
+Last_Int: 7
+I:  3
+I:  4
+I:  5
+I:  6
+I:  7
+Last_Int: 8
+I:  8
+I:  9
+I:  10
+I:  11
+Last_Int: 6
+I:  12
+I:  13
+I:  14
+I:  15
+I:  16
+I:  17
+I:  18
+Last_Int: 9
+Answer: 79
+String_Source: fkkmfbd7nineseven
+I: zero
+String_Source: fkkmfbd7nineseven
+I: one
+String_Source: fkkmfbd7nineseven
+I: two
+String_Source: fkkmfbd7nineseven
+I: three
+String_Source: fkkmfbd7nineseven
+I: four
+String_Source: fkkmfbd7nineseven
+I: five
+String_Source: fkkmfbd7nineseven
+I: six
+String_Source: fkkmfbd7nineseven
+I: seven
+fkkmfbd7nineseven
+String_Source: fkkmfbd7nine 7ven
+I: eight
+String_Source: fkkmfbd7nine 7ven
+I: nine
+fkkmfbd7nineseven
+I:  1
+I:  2
+I:  3
+I:  4
+I:  5
+I:  6
+I:  7
+I:  8
+First_Int: 7
+Last_Int: 7
+I:  9
+I:  10
+Last_Int: 9
+I:  11
+I:  12
+I:  13
+I:  14
+Last_Int: 7
+I:  15
+I:  16
+I:  17
+Answer: 77
+String_Source: twobtkvbzgplfpjfiveseven5
+I: zero
+String_Source: twobtkvbzgplfpjfiveseven5
+I: one
+String_Source: twobtkvbzgplfpjfiveseven5
+I: two
+twobtkvbzgplfpjfiveseven5
+String_Source:  2obtkvbzgplfpjfiveseven5
+I: three
+String_Source:  2obtkvbzgplfpjfiveseven5
+I: four
+String_Source:  2obtkvbzgplfpjfiveseven5
+I: five
+twobtkvbzgplfpjfiveseven5
+String_Source:  2obtkvbzgplfpj 5veseven5
+I: six
+String_Source:  2obtkvbzgplfpj 5veseven5
+I: seven
+twobtkvbzgplfpjfiveseven5
+String_Source:  2obtkvbzgplfpj 5ve 7ven5
+I: eight
+String_Source:  2obtkvbzgplfpj 5ve 7ven5
+I: nine
+I:  1
+I:  2
+First_Int: 2
+Last_Int: 2
+I:  3
+I:  4
+I:  5
+I:  6
+I:  7
+I:  8
+I:  9
+I:  10
+I:  11
+I:  12
+I:  13
+I:  14
+I:  15
+I:  16
+I:  17
+Last_Int: 5
+I:  18
+I:  19
+I:  20
+I:  21
+Last_Int: 7
+I:  22
+I:  23
+I:  24
+I:  25
+Last_Int: 5
+Answer: 25
+String_Source: 9jsjkjhgtghbqltldlcpqtvgpmhsixsix1four2
+I: zero
+String_Source: 9jsjkjhgtghbqltldlcpqtvgpmhsixsix1four2
+I: one
+String_Source: 9jsjkjhgtghbqltldlcpqtvgpmhsixsix1four2
+I: two
+String_Source: 9jsjkjhgtghbqltldlcpqtvgpmhsixsix1four2
+I: three
+String_Source: 9jsjkjhgtghbqltldlcpqtvgpmhsixsix1four2
+I: four
+9jsjkjhgtghbqltldlcpqtvgpmhsixsix1four2
+String_Source: 9jsjkjhgtghbqltldlcpqtvgpmhsixsix1 4ur2
+I: five
+String_Source: 9jsjkjhgtghbqltldlcpqtvgpmhsixsix1 4ur2
+I: six
+9jsjkjhgtghbqltldlcpqtvgpmhsixsix1four2
+String_Source: 9jsjkjhgtghbqltldlcpqtvgpmh 6xsix1 4ur2
+I: seven
+String_Source: 9jsjkjhgtghbqltldlcpqtvgpmh 6xsix1 4ur2
+I: eight
+String_Source: 9jsjkjhgtghbqltldlcpqtvgpmh 6xsix1 4ur2
+I: nine
+I:  1
+First_Int: 9
+Last_Int: 9
+I:  2
+I:  3
+I:  4
+I:  5
+I:  6
+I:  7
+I:  8
+I:  9
+I:  10
+I:  11
+I:  12
+I:  13
+I:  14
+I:  15
+I:  16
+I:  17
+I:  18
+I:  19
+I:  20
+I:  21
+I:  22
+I:  23
+I:  24
+I:  25
+I:  26
+I:  27
+I:  28
+I:  29
+Last_Int: 6
+I:  30
+I:  31
+I:  32
+I:  33
+I:  34
+Last_Int: 1
+I:  35
+I:  36
+Last_Int: 4
+I:  37
+I:  38
+I:  39
+Last_Int: 2
+Answer: 92
+String_Source: kxcgkvkmnblfive438
+I: zero
+String_Source: kxcgkvkmnblfive438
+I: one
+String_Source: kxcgkvkmnblfive438
+I: two
+String_Source: kxcgkvkmnblfive438
+I: three
+String_Source: kxcgkvkmnblfive438
+I: four
+String_Source: kxcgkvkmnblfive438
+I: five
+kxcgkvkmnblfive438
+String_Source: kxcgkvkmnbl 5ve438
+I: six
+String_Source: kxcgkvkmnbl 5ve438
+I: seven
+String_Source: kxcgkvkmnbl 5ve438
+I: eight
+String_Source: kxcgkvkmnbl 5ve438
+I: nine
+I:  1
+I:  2
+I:  3
+I:  4
+I:  5
+I:  6
+I:  7
+I:  8
+I:  9
+I:  10
+I:  11
+I:  12
+I:  13
+First_Int: 5
+Last_Int: 5
+I:  14
+I:  15
+I:  16
+Last_Int: 4
+I:  17
+Last_Int: 3
+I:  18
+Last_Int: 8
+Answer: 58
+String_Source: six6lbbqlttnvfiverxceightwobx
+I: zero
+String_Source: six6lbbqlttnvfiverxceightwobx
+I: one
+String_Source: six6lbbqlttnvfiverxceightwobx
+I: two
+six6lbbqlttnvfiverxceightwobx
+String_Source: six6lbbqlttnvfiverxceigh 2obx
+I: three
+String_Source: six6lbbqlttnvfiverxceigh 2obx
+I: four
+String_Source: six6lbbqlttnvfiverxceigh 2obx
+I: five
+six6lbbqlttnvfiverxceightwobx
+String_Source: six6lbbqlttnv 5verxceigh 2obx
+I: six
+six6lbbqlttnvfiverxceightwobx
+String_Source:  6x6lbbqlttnv 5verxceigh 2obx
+I: seven
+String_Source:  6x6lbbqlttnv 5verxceigh 2obx
+I: eight
+String_Source:  6x6lbbqlttnv 5verxceigh 2obx
+I: nine
+I:  1
+I:  2
+First_Int: 6
+Last_Int: 6
+I:  3
+I:  4
+Last_Int: 6
+I:  5
+I:  6
+I:  7
+I:  8
+I:  9
+I:  10
+I:  11
+I:  12
+I:  13
+I:  14
+I:  15
+Last_Int: 5
+I:  16
+I:  17
+I:  18
+I:  19
+I:  20
+I:  21
+I:  22
+I:  23
+I:  24
+I:  25
+I:  26
+Last_Int: 2
+I:  27
+I:  28
+I:  29
+Answer: 62
+String_Source: 8sevenseven6three9ptfggzkhm
+I: zero
+String_Source: 8sevenseven6three9ptfggzkhm
+I: one
+String_Source: 8sevenseven6three9ptfggzkhm
+I: two
+String_Source: 8sevenseven6three9ptfggzkhm
+I: three
+8sevenseven6three9ptfggzkhm
+String_Source: 8sevenseven6 3ree9ptfggzkhm
+I: four
+String_Source: 8sevenseven6 3ree9ptfggzkhm
+I: five
+String_Source: 8sevenseven6 3ree9ptfggzkhm
+I: six
+String_Source: 8sevenseven6 3ree9ptfggzkhm
+I: seven
+8sevenseven6three9ptfggzkhm
+String_Source: 8 7venseven6 3ree9ptfggzkhm
+I: eight
+String_Source: 8 7venseven6 3ree9ptfggzkhm
+I: nine
+I:  1
+First_Int: 8
+Last_Int: 8
+I:  2
+I:  3
+Last_Int: 7
+I:  4
+I:  5
+I:  6
+I:  7
+I:  8
+I:  9
+I:  10
+I:  11
+I:  12
+Last_Int: 6
+I:  13
+I:  14
+Last_Int: 3
+I:  15
+I:  16
+I:  17
+I:  18
+Last_Int: 9
+I:  19
+I:  20
+I:  21
+I:  22
+I:  23
+I:  24
+I:  25
+I:  26
+I:  27
+Answer: 89
+String_Source: one7ninemdjznbqhfkckpjkxtwo12
+I: zero
+String_Source: one7ninemdjznbqhfkckpjkxtwo12
+I: one
+one7ninemdjznbqhfkckpjkxtwo12
+String_Source:  1e7ninemdjznbqhfkckpjkxtwo12
+I: two
+one7ninemdjznbqhfkckpjkxtwo12
+String_Source:  1e7ninemdjznbqhfkckpjkx 2o12
+I: three
+String_Source:  1e7ninemdjznbqhfkckpjkx 2o12
+I: four
+String_Source:  1e7ninemdjznbqhfkckpjkx 2o12
+I: five
+String_Source:  1e7ninemdjznbqhfkckpjkx 2o12
+I: six
+String_Source:  1e7ninemdjznbqhfkckpjkx 2o12
+I: seven
+String_Source:  1e7ninemdjznbqhfkckpjkx 2o12
+I: eight
+String_Source:  1e7ninemdjznbqhfkckpjkx 2o12
+I: nine
+one7ninemdjznbqhfkckpjkxtwo12
+I:  1
+I:  2
+First_Int: 1
+Last_Int: 1
+I:  3
+I:  4
+Last_Int: 7
+I:  5
+I:  6
+Last_Int: 9
+I:  7
+I:  8
+I:  9
+I:  10
+I:  11
+I:  12
+I:  13
+I:  14
+I:  15
+I:  16
+I:  17
+I:  18
+I:  19
+I:  20
+I:  21
+I:  22
+I:  23
+I:  24
+I:  25
+I:  26
+Last_Int: 2
+I:  27
+I:  28
+Last_Int: 1
+I:  29
+Last_Int: 2
+Answer: 12
+String_Source: 1bvjgdjlll
+I: zero
+String_Source: 1bvjgdjlll
+I: one
+String_Source: 1bvjgdjlll
+I: two
+String_Source: 1bvjgdjlll
+I: three
+String_Source: 1bvjgdjlll
+I: four
+String_Source: 1bvjgdjlll
+I: five
+String_Source: 1bvjgdjlll
+I: six
+String_Source: 1bvjgdjlll
+I: seven
+String_Source: 1bvjgdjlll
+I: eight
+String_Source: 1bvjgdjlll
+I: nine
+I:  1
+First_Int: 1
+Last_Int: 1
+I:  2
+I:  3
+I:  4
+I:  5
+I:  6
+I:  7
+I:  8
+I:  9
+I:  10
+Answer: 11
+String_Source: 43kjdtwofiveseventhree9
+I: zero
+String_Source: 43kjdtwofiveseventhree9
+I: one
+String_Source: 43kjdtwofiveseventhree9
+I: two
+43kjdtwofiveseventhree9
+String_Source: 43kjd 2ofiveseventhree9
+I: three
+43kjdtwofiveseventhree9
+String_Source: 43kjd 2ofiveseven 3ree9
+I: four
+String_Source: 43kjd 2ofiveseven 3ree9
+I: five
+43kjdtwofiveseventhree9
+String_Source: 43kjd 2o 5veseven 3ree9
+I: six
+String_Source: 43kjd 2o 5veseven 3ree9
+I: seven
+43kjdtwofiveseventhree9
+String_Source: 43kjd 2o 5ve 7ven 3ree9
+I: eight
+String_Source: 43kjd 2o 5ve 7ven 3ree9
+I: nine
+I:  1
+First_Int: 4
+Last_Int: 4
+I:  2
+Last_Int: 3
+I:  3
+I:  4
+I:  5
+I:  6
+I:  7
+Last_Int: 2
+I:  8
+I:  9
+I:  10
+Last_Int: 5
+I:  11
+I:  12
+I:  13
+I:  14
+Last_Int: 7
+I:  15
+I:  16
+I:  17
+I:  18
+I:  19
+Last_Int: 3
+I:  20
+I:  21
+I:  22
+I:  23
+Last_Int: 9
+Answer: 49
+String_Source: fourlgzcrldtwoseven9xndlqvbrtonennvlvzplrt
+I: zero
+String_Source: fourlgzcrldtwoseven9xndlqvbrtonennvlvzplrt
+I: one
+fourlgzcrldtwoseven9xndlqvbrtonennvlvzplrt
+String_Source: fourlgzcrldtwoseven9xndlqvbrt 1ennvlvzplrt
+I: two
+fourlgzcrldtwoseven9xndlqvbrtonennvlvzplrt
+String_Source: fourlgzcrld 2oseven9xndlqvbrt 1ennvlvzplrt
+I: three
+String_Source: fourlgzcrld 2oseven9xndlqvbrt 1ennvlvzplrt
+I: four
+fourlgzcrldtwoseven9xndlqvbrtonennvlvzplrt
+String_Source:  4urlgzcrld 2oseven9xndlqvbrt 1ennvlvzplrt
+I: five
+String_Source:  4urlgzcrld 2oseven9xndlqvbrt 1ennvlvzplrt
+I: six
+String_Source:  4urlgzcrld 2oseven9xndlqvbrt 1ennvlvzplrt
+I: seven
+fourlgzcrldtwoseven9xndlqvbrtonennvlvzplrt
+String_Source:  4urlgzcrld 2o 7ven9xndlqvbrt 1ennvlvzplrt
+I: eight
+String_Source:  4urlgzcrld 2o 7ven9xndlqvbrt 1ennvlvzplrt
+I: nine
+I:  1
+I:  2
+First_Int: 4
+Last_Int: 4
+I:  3
+I:  4
+I:  5
+I:  6
+I:  7
+I:  8
+I:  9
+I:  10
+I:  11
+I:  12
+I:  13
+Last_Int: 2
+I:  14
+I:  15
+I:  16
+Last_Int: 7
+I:  17
+I:  18
+I:  19
+I:  20
+Last_Int: 9
+I:  21
+I:  22
+I:  23
+I:  24
+I:  25
+I:  26
+I:  27
+I:  28
+I:  29
+I:  30
+I:  31
+Last_Int: 1
+I:  32
+I:  33
+I:  34
+I:  35
+I:  36
+I:  37
+I:  38
+I:  39
+I:  40
+I:  41
+I:  42
+Answer: 41
+String_Source: 8twohzmcknlmqd
+I: zero
+String_Source: 8twohzmcknlmqd
+I: one
+String_Source: 8twohzmcknlmqd
+I: two
+8twohzmcknlmqd
+String_Source: 8 2ohzmcknlmqd
+I: three
+String_Source: 8 2ohzmcknlmqd
+I: four
+String_Source: 8 2ohzmcknlmqd
+I: five
+String_Source: 8 2ohzmcknlmqd
+I: six
+String_Source: 8 2ohzmcknlmqd
+I: seven
+String_Source: 8 2ohzmcknlmqd
+I: eight
+String_Source: 8 2ohzmcknlmqd
+I: nine
+I:  1
+First_Int: 8
+Last_Int: 8
+I:  2
+I:  3
+Last_Int: 2
+I:  4
+I:  5
+I:  6
+I:  7
+I:  8
+I:  9
+I:  10
+I:  11
+I:  12
+I:  13
+I:  14
+Answer: 82
+String_Source: gshhvf5twodqgdseven8fourfoursix
+I: zero
+String_Source: gshhvf5twodqgdseven8fourfoursix
+I: one
+String_Source: gshhvf5twodqgdseven8fourfoursix
+I: two
+gshhvf5twodqgdseven8fourfoursix
+String_Source: gshhvf5 2odqgdseven8fourfoursix
+I: three
+String_Source: gshhvf5 2odqgdseven8fourfoursix
+I: four
+gshhvf5twodqgdseven8fourfoursix
+String_Source: gshhvf5 2odqgdseven8 4urfoursix
+I: five
+String_Source: gshhvf5 2odqgdseven8 4urfoursix
+I: six
+gshhvf5twodqgdseven8fourfoursix
+String_Source: gshhvf5 2odqgdseven8 4urfour 6x
+I: seven
+gshhvf5twodqgdseven8fourfoursix
+String_Source: gshhvf5 2odqgd 7ven8 4urfour 6x
+I: eight
+String_Source: gshhvf5 2odqgd 7ven8 4urfour 6x
+I: nine
+I:  1
+I:  2
+I:  3
+I:  4
+I:  5
+I:  6
+I:  7
+First_Int: 5
+Last_Int: 5
+I:  8
+I:  9
+Last_Int: 2
+I:  10
+I:  11
+I:  12
+I:  13
+I:  14
+I:  15
+I:  16
+Last_Int: 7
+I:  17
+I:  18
+I:  19
+I:  20
+Last_Int: 8
+I:  21
+I:  22
+Last_Int: 4
+I:  23
+I:  24
+I:  25
+I:  26
+I:  27
+I:  28
+I:  29
+I:  30
+Last_Int: 6
+I:  31
+Answer: 56
+String_Source: nineone47sixeightrp
+I: zero
+String_Source: nineone47sixeightrp
+I: one
+nineone47sixeightrp
+String_Source: nine 1e47sixeightrp
+I: two
+String_Source: nine 1e47sixeightrp
+I: three
+String_Source: nine 1e47sixeightrp
+I: four
+String_Source: nine 1e47sixeightrp
+I: five
+String_Source: nine 1e47sixeightrp
+I: six
+nineone47sixeightrp
+String_Source: nine 1e47 6xeightrp
+I: seven
+String_Source: nine 1e47 6xeightrp
+I: eight
+nineone47sixeightrp
+String_Source: nine 1e47 6x 8ghtrp
+I: nine
+nineone47sixeightrp
+I:  1
+I:  2
+First_Int: 9
+Last_Int: 9
+I:  3
+I:  4
+I:  5
+I:  6
+Last_Int: 1
+I:  7
+I:  8
+Last_Int: 4
+I:  9
+Last_Int: 7
+I:  10
+I:  11
+Last_Int: 6
+I:  12
+I:  13
+I:  14
+Last_Int: 8
+I:  15
+I:  16
+I:  17
+I:  18
+I:  19
+Answer: 98
+String_Source: 4stonekdgdhxrtqv9sixonevhhmhqzp
+I: zero
+String_Source: 4stonekdgdhxrtqv9sixonevhhmhqzp
+I: one
+4stonekdgdhxrtqv9sixonevhhmhqzp
+String_Source: 4st 1ekdgdhxrtqv9sixonevhhmhqzp
+I: two
+String_Source: 4st 1ekdgdhxrtqv9sixonevhhmhqzp
+I: three
+String_Source: 4st 1ekdgdhxrtqv9sixonevhhmhqzp
+I: four
+String_Source: 4st 1ekdgdhxrtqv9sixonevhhmhqzp
+I: five
+String_Source: 4st 1ekdgdhxrtqv9sixonevhhmhqzp
+I: six
+4stonekdgdhxrtqv9sixonevhhmhqzp
+String_Source: 4st 1ekdgdhxrtqv9 6xonevhhmhqzp
+I: seven
+String_Source: 4st 1ekdgdhxrtqv9 6xonevhhmhqzp
+I: eight
+String_Source: 4st 1ekdgdhxrtqv9 6xonevhhmhqzp
+I: nine
+I:  1
+First_Int: 4
+Last_Int: 4
+I:  2
+I:  3
+I:  4
+I:  5
+Last_Int: 1
+I:  6
+I:  7
+I:  8
+I:  9
+I:  10
+I:  11
+I:  12
+I:  13
+I:  14
+I:  15
+I:  16
+I:  17
+Last_Int: 9
+I:  18
+I:  19
+Last_Int: 6
+I:  20
+I:  21
+I:  22
+I:  23
+I:  24
+I:  25
+I:  26
+I:  27
+I:  28
+I:  29
+I:  30
+I:  31
+Answer: 46
+String_Source: 8lmpppc
+I: zero
+String_Source: 8lmpppc
+I: one
+String_Source: 8lmpppc
+I: two
+String_Source: 8lmpppc
+I: three
+String_Source: 8lmpppc
+I: four
+String_Source: 8lmpppc
+I: five
+String_Source: 8lmpppc
+I: six
+String_Source: 8lmpppc
+I: seven
+String_Source: 8lmpppc
+I: eight
+String_Source: 8lmpppc
+I: nine
+I:  1
+First_Int: 8
+Last_Int: 8
+I:  2
+I:  3
+I:  4
+I:  5
+I:  6
+I:  7
+Answer: 88
+String_Source: 4five8ffive
+I: zero
+String_Source: 4five8ffive
+I: one
+String_Source: 4five8ffive
+I: two
+String_Source: 4five8ffive
+I: three
+String_Source: 4five8ffive
+I: four
+String_Source: 4five8ffive
+I: five
+4five8ffive
+String_Source: 4 5ve8ffive
+I: six
+String_Source: 4 5ve8ffive
+I: seven
+String_Source: 4 5ve8ffive
+I: eight
+String_Source: 4 5ve8ffive
+I: nine
+I:  1
+First_Int: 4
+Last_Int: 4
+I:  2
+I:  3
+Last_Int: 5
+I:  4
+I:  5
+I:  6
+Last_Int: 8
+I:  7
+I:  8
+I:  9
+I:  10
+I:  11
+Answer: 48
+String_Source: fivefivesmmkh6jhtggr4
+I: zero
+String_Source: fivefivesmmkh6jhtggr4
+I: one
+String_Source: fivefivesmmkh6jhtggr4
+I: two
+String_Source: fivefivesmmkh6jhtggr4
+I: three
+String_Source: fivefivesmmkh6jhtggr4
+I: four
+String_Source: fivefivesmmkh6jhtggr4
+I: five
+fivefivesmmkh6jhtggr4
+String_Source:  5vefivesmmkh6jhtggr4
+I: six
+String_Source:  5vefivesmmkh6jhtggr4
+I: seven
+String_Source:  5vefivesmmkh6jhtggr4
+I: eight
+String_Source:  5vefivesmmkh6jhtggr4
+I: nine
+I:  1
+I:  2
+First_Int: 5
+Last_Int: 5
+I:  3
+I:  4
+I:  5
+I:  6
+I:  7
+I:  8
+I:  9
+I:  10
+I:  11
+I:  12
+I:  13
+I:  14
+Last_Int: 6
+I:  15
+I:  16
+I:  17
+I:  18
+I:  19
+I:  20
+I:  21
+Last_Int: 4
+Answer: 54
+String_Source: tjrr9ninenine
+I: zero
+String_Source: tjrr9ninenine
+I: one
+String_Source: tjrr9ninenine
+I: two
+String_Source: tjrr9ninenine
+I: three
+String_Source: tjrr9ninenine
+I: four
+String_Source: tjrr9ninenine
+I: five
+String_Source: tjrr9ninenine
+I: six
+String_Source: tjrr9ninenine
+I: seven
+String_Source: tjrr9ninenine
+I: eight
+String_Source: tjrr9ninenine
+I: nine
+tjrr9ninenine
+I:  1
+I:  2
+I:  3
+I:  4
+I:  5
+First_Int: 9
+Last_Int: 9
+I:  6
+I:  7
+Last_Int: 9
+I:  8
+I:  9
+I:  10
+I:  11
+I:  12
+I:  13
+Answer: 99
+String_Source: six6fiverqdlm67hztn2five
+I: zero
+String_Source: six6fiverqdlm67hztn2five
+I: one
+String_Source: six6fiverqdlm67hztn2five
+I: two
+String_Source: six6fiverqdlm67hztn2five
+I: three
+String_Source: six6fiverqdlm67hztn2five
+I: four
+String_Source: six6fiverqdlm67hztn2five
+I: five
+six6fiverqdlm67hztn2five
+String_Source: six6 5verqdlm67hztn2five
+I: six
+six6fiverqdlm67hztn2five
+String_Source:  6x6 5verqdlm67hztn2five
+I: seven
+String_Source:  6x6 5verqdlm67hztn2five
+I: eight
+String_Source:  6x6 5verqdlm67hztn2five
+I: nine
+I:  1
+I:  2
+First_Int: 6
+Last_Int: 6
+I:  3
+I:  4
+Last_Int: 6
+I:  5
+I:  6
+Last_Int: 5
+I:  7
+I:  8
+I:  9
+I:  10
+I:  11
+I:  12
+I:  13
+I:  14
+Last_Int: 6
+I:  15
+Last_Int: 7
+I:  16
+I:  17
+I:  18
+I:  19
+I:  20
+Last_Int: 2
+I:  21
+I:  22
+I:  23
+I:  24
+Answer: 62
+String_Source: six3278xsddmnz
+I: zero
+String_Source: six3278xsddmnz
+I: one
+String_Source: six3278xsddmnz
+I: two
+String_Source: six3278xsddmnz
+I: three
+String_Source: six3278xsddmnz
+I: four
+String_Source: six3278xsddmnz
+I: five
+String_Source: six3278xsddmnz
+I: six
+six3278xsddmnz
+String_Source:  6x3278xsddmnz
+I: seven
+String_Source:  6x3278xsddmnz
+I: eight
+String_Source:  6x3278xsddmnz
+I: nine
+I:  1
+I:  2
+First_Int: 6
+Last_Int: 6
+I:  3
+I:  4
+Last_Int: 3
+I:  5
+Last_Int: 2
+I:  6
+Last_Int: 7
+I:  7
+Last_Int: 8
+I:  8
+I:  9
+I:  10
+I:  11
+I:  12
+I:  13
+I:  14
+Answer: 68
+String_Source: 8qlhdpxn645nhrjm
+I: zero
+String_Source: 8qlhdpxn645nhrjm
+I: one
+String_Source: 8qlhdpxn645nhrjm
+I: two
+String_Source: 8qlhdpxn645nhrjm
+I: three
+String_Source: 8qlhdpxn645nhrjm
+I: four
+String_Source: 8qlhdpxn645nhrjm
+I: five
+String_Source: 8qlhdpxn645nhrjm
+I: six
+String_Source: 8qlhdpxn645nhrjm
+I: seven
+String_Source: 8qlhdpxn645nhrjm
+I: eight
+String_Source: 8qlhdpxn645nhrjm
+I: nine
+I:  1
+First_Int: 8
+Last_Int: 8
+I:  2
+I:  3
+I:  4
+I:  5
+I:  6
+I:  7
+I:  8
+I:  9
+Last_Int: 6
+I:  10
+Last_Int: 4
+I:  11
+Last_Int: 5
+I:  12
+I:  13
+I:  14
+I:  15
+I:  16
+Answer: 85
+String_Source: xlfttcfs6jgtbeight6sixdvpl22
+I: zero
+String_Source: xlfttcfs6jgtbeight6sixdvpl22
+I: one
+String_Source: xlfttcfs6jgtbeight6sixdvpl22
+I: two
+String_Source: xlfttcfs6jgtbeight6sixdvpl22
+I: three
+String_Source: xlfttcfs6jgtbeight6sixdvpl22
+I: four
+String_Source: xlfttcfs6jgtbeight6sixdvpl22
+I: five
+String_Source: xlfttcfs6jgtbeight6sixdvpl22
+I: six
+xlfttcfs6jgtbeight6sixdvpl22
+String_Source: xlfttcfs6jgtbeight6 6xdvpl22
+I: seven
+String_Source: xlfttcfs6jgtbeight6 6xdvpl22
+I: eight
+xlfttcfs6jgtbeight6sixdvpl22
+String_Source: xlfttcfs6jgtb 8ght6 6xdvpl22
+I: nine
+I:  1
+I:  2
+I:  3
+I:  4
+I:  5
+I:  6
+I:  7
+I:  8
+I:  9
+First_Int: 6
+Last_Int: 6
+I:  10
+I:  11
+I:  12
+I:  13
+I:  14
+I:  15
+Last_Int: 8
+I:  16
+I:  17
+I:  18
+I:  19
+Last_Int: 6
+I:  20
+I:  21
+Last_Int: 6
+I:  22
+I:  23
+I:  24
+I:  25
+I:  26
+I:  27
+Last_Int: 2
+I:  28
+Last_Int: 2
+Answer: 62
+String_Source: 87tcj6gkjfrrmdjbgh4
+I: zero
+String_Source: 87tcj6gkjfrrmdjbgh4
+I: one
+String_Source: 87tcj6gkjfrrmdjbgh4
+I: two
+String_Source: 87tcj6gkjfrrmdjbgh4
+I: three
+String_Source: 87tcj6gkjfrrmdjbgh4
+I: four
+String_Source: 87tcj6gkjfrrmdjbgh4
+I: five
+String_Source: 87tcj6gkjfrrmdjbgh4
+I: six
+String_Source: 87tcj6gkjfrrmdjbgh4
+I: seven
+String_Source: 87tcj6gkjfrrmdjbgh4
+I: eight
+String_Source: 87tcj6gkjfrrmdjbgh4
+I: nine
+I:  1
+First_Int: 8
+Last_Int: 8
+I:  2
+Last_Int: 7
+I:  3
+I:  4
+I:  5
+I:  6
+Last_Int: 6
+I:  7
+I:  8
+I:  9
+I:  10
+I:  11
+I:  12
+I:  13
+I:  14
+I:  15
+I:  16
+I:  17
+I:  18
+I:  19
+Last_Int: 4
+Answer: 84
+String_Source: 6eightsevennmdpkkmkqrffgshrfhml7two1
+I: zero
+String_Source: 6eightsevennmdpkkmkqrffgshrfhml7two1
+I: one
+String_Source: 6eightsevennmdpkkmkqrffgshrfhml7two1
+I: two
+6eightsevennmdpkkmkqrffgshrfhml7two1
+String_Source: 6eightsevennmdpkkmkqrffgshrfhml7 2o1
+I: three
+String_Source: 6eightsevennmdpkkmkqrffgshrfhml7 2o1
+I: four
+String_Source: 6eightsevennmdpkkmkqrffgshrfhml7 2o1
+I: five
+String_Source: 6eightsevennmdpkkmkqrffgshrfhml7 2o1
+I: six
+String_Source: 6eightsevennmdpkkmkqrffgshrfhml7 2o1
+I: seven
+6eightsevennmdpkkmkqrffgshrfhml7two1
+String_Source: 6eight 7vennmdpkkmkqrffgshrfhml7 2o1
+I: eight
+6eightsevennmdpkkmkqrffgshrfhml7two1
+String_Source: 6 8ght 7vennmdpkkmkqrffgshrfhml7 2o1
+I: nine
+I:  1
+First_Int: 6
+Last_Int: 6
+I:  2
+I:  3
+Last_Int: 8
+I:  4
+I:  5
+I:  6
+I:  7
+I:  8
+Last_Int: 7
+I:  9
+I:  10
+I:  11
+I:  12
+I:  13
+I:  14
+I:  15
+I:  16
+I:  17
+I:  18
+I:  19
+I:  20
+I:  21
+I:  22
+I:  23
+I:  24
+I:  25
+I:  26
+I:  27
+I:  28
+I:  29
+I:  30
+I:  31
+I:  32
+Last_Int: 7
+I:  33
+I:  34
+Last_Int: 2
+I:  35
+I:  36
+Last_Int: 1
+Answer: 61
+String_Source: ninemglsrmvqrk5six
+I: zero
+String_Source: ninemglsrmvqrk5six
+I: one
+String_Source: ninemglsrmvqrk5six
+I: two
+String_Source: ninemglsrmvqrk5six
+I: three
+String_Source: ninemglsrmvqrk5six
+I: four
+String_Source: ninemglsrmvqrk5six
+I: five
+String_Source: ninemglsrmvqrk5six
+I: six
+ninemglsrmvqrk5six
+String_Source: ninemglsrmvqrk5 6x
+I: seven
+String_Source: ninemglsrmvqrk5 6x
+I: eight
+String_Source: ninemglsrmvqrk5 6x
+I: nine
+ninemglsrmvqrk5six
+I:  1
+I:  2
+First_Int: 9
+Last_Int: 9
+I:  3
+I:  4
+I:  5
+I:  6
+I:  7
+I:  8
+I:  9
+I:  10
+I:  11
+I:  12
+I:  13
+I:  14
+I:  15
+Last_Int: 5
+I:  16
+I:  17
+Last_Int: 6
+I:  18
+Answer: 96
+String_Source: 9nfgt1rntwo1826
+I: zero
+String_Source: 9nfgt1rntwo1826
+I: one
+String_Source: 9nfgt1rntwo1826
+I: two
+9nfgt1rntwo1826
+String_Source: 9nfgt1rn 2o1826
+I: three
+String_Source: 9nfgt1rn 2o1826
+I: four
+String_Source: 9nfgt1rn 2o1826
+I: five
+String_Source: 9nfgt1rn 2o1826
+I: six
+String_Source: 9nfgt1rn 2o1826
+I: seven
+String_Source: 9nfgt1rn 2o1826
+I: eight
+String_Source: 9nfgt1rn 2o1826
+I: nine
+I:  1
+First_Int: 9
+Last_Int: 9
+I:  2
+I:  3
+I:  4
+I:  5
+I:  6
+Last_Int: 1
+I:  7
+I:  8
+I:  9
+I:  10
+Last_Int: 2
+I:  11
+I:  12
+Last_Int: 1
+I:  13
+Last_Int: 8
+I:  14
+Last_Int: 2
+I:  15
+Last_Int: 6
+Answer: 96
+String_Source: three2fiveonexrllxsvfive
+I: zero
+String_Source: three2fiveonexrllxsvfive
+I: one
+three2fiveonexrllxsvfive
+String_Source: three2five 1exrllxsvfive
+I: two
+String_Source: three2five 1exrllxsvfive
+I: three
+three2fiveonexrllxsvfive
+String_Source:  3ree2five 1exrllxsvfive
+I: four
+String_Source:  3ree2five 1exrllxsvfive
+I: five
+three2fiveonexrllxsvfive
+String_Source:  3ree2 5ve 1exrllxsvfive
+I: six
+String_Source:  3ree2 5ve 1exrllxsvfive
+I: seven
+String_Source:  3ree2 5ve 1exrllxsvfive
+I: eight
+String_Source:  3ree2 5ve 1exrllxsvfive
+I: nine
+I:  1
+I:  2
+First_Int: 3
+Last_Int: 3
+I:  3
+I:  4
+I:  5
+I:  6
+Last_Int: 2
+I:  7
+I:  8
+Last_Int: 5
+I:  9
+I:  10
+I:  11
+I:  12
+Last_Int: 1
+I:  13
+I:  14
+I:  15
+I:  16
+I:  17
+I:  18
+I:  19
+I:  20
+I:  21
+I:  22
+I:  23
+I:  24
+Answer: 31
+String_Source: 9zjfkmdfbfqqf2mxpnqsmsthjzzszdxl
+I: zero
+String_Source: 9zjfkmdfbfqqf2mxpnqsmsthjzzszdxl
+I: one
+String_Source: 9zjfkmdfbfqqf2mxpnqsmsthjzzszdxl
+I: two
+String_Source: 9zjfkmdfbfqqf2mxpnqsmsthjzzszdxl
+I: three
+String_Source: 9zjfkmdfbfqqf2mxpnqsmsthjzzszdxl
+I: four
+String_Source: 9zjfkmdfbfqqf2mxpnqsmsthjzzszdxl
+I: five
+String_Source: 9zjfkmdfbfqqf2mxpnqsmsthjzzszdxl
+I: six
+String_Source: 9zjfkmdfbfqqf2mxpnqsmsthjzzszdxl
+I: seven
+String_Source: 9zjfkmdfbfqqf2mxpnqsmsthjzzszdxl
+I: eight
+String_Source: 9zjfkmdfbfqqf2mxpnqsmsthjzzszdxl
+I: nine
+I:  1
+First_Int: 9
+Last_Int: 9
+I:  2
+I:  3
+I:  4
+I:  5
+I:  6
+I:  7
+I:  8
+I:  9
+I:  10
+I:  11
+I:  12
+I:  13
+I:  14
+Last_Int: 2
+I:  15
+I:  16
+I:  17
+I:  18
+I:  19
+I:  20
+I:  21
+I:  22
+I:  23
+I:  24
+I:  25
+I:  26
+I:  27
+I:  28
+I:  29
+I:  30
+I:  31
+I:  32
+Answer: 92
+String_Source: 43eightnvdrthree1eightoneggrdmnp
+I: zero
+String_Source: 43eightnvdrthree1eightoneggrdmnp
+I: one
+43eightnvdrthree1eightoneggrdmnp
+String_Source: 43eightnvdrthree1eight 1eggrdmnp
+I: two
+String_Source: 43eightnvdrthree1eight 1eggrdmnp
+I: three
+43eightnvdrthree1eightoneggrdmnp
+String_Source: 43eightnvdr 3ree1eight 1eggrdmnp
+I: four
+String_Source: 43eightnvdr 3ree1eight 1eggrdmnp
+I: five
+String_Source: 43eightnvdr 3ree1eight 1eggrdmnp
+I: six
+String_Source: 43eightnvdr 3ree1eight 1eggrdmnp
+I: seven
+String_Source: 43eightnvdr 3ree1eight 1eggrdmnp
+I: eight
+43eightnvdrthree1eightoneggrdmnp
+String_Source: 43 8ghtnvdr 3ree1eight 1eggrdmnp
+I: nine
+I:  1
+First_Int: 4
+Last_Int: 4
+I:  2
+Last_Int: 3
+I:  3
+I:  4
+Last_Int: 8
+I:  5
+I:  6
+I:  7
+I:  8
+I:  9
+I:  10
+I:  11
+I:  12
+I:  13
+Last_Int: 3
+I:  14
+I:  15
+I:  16
+I:  17
+Last_Int: 1
+I:  18
+I:  19
+I:  20
+I:  21
+I:  22
+I:  23
+I:  24
+Last_Int: 1
+I:  25
+I:  26
+I:  27
+I:  28
+I:  29
+I:  30
+I:  31
+I:  32
+Answer: 41
+String_Source: pffldcmnlpsevensixqxhdncrclbc51five
+I: zero
+String_Source: pffldcmnlpsevensixqxhdncrclbc51five
+I: one
+String_Source: pffldcmnlpsevensixqxhdncrclbc51five
+I: two
+String_Source: pffldcmnlpsevensixqxhdncrclbc51five
+I: three
+String_Source: pffldcmnlpsevensixqxhdncrclbc51five
+I: four
+String_Source: pffldcmnlpsevensixqxhdncrclbc51five
+I: five
+pffldcmnlpsevensixqxhdncrclbc51five
+String_Source: pffldcmnlpsevensixqxhdncrclbc51 5ve
+I: six
+pffldcmnlpsevensixqxhdncrclbc51five
+String_Source: pffldcmnlpseven 6xqxhdncrclbc51 5ve
+I: seven
+pffldcmnlpsevensixqxhdncrclbc51five
+String_Source: pffldcmnlp 7ven 6xqxhdncrclbc51 5ve
+I: eight
+String_Source: pffldcmnlp 7ven 6xqxhdncrclbc51 5ve
+I: nine
+I:  1
+I:  2
+I:  3
+I:  4
+I:  5
+I:  6
+I:  7
+I:  8
+I:  9
+I:  10
+I:  11
+I:  12
+First_Int: 7
+Last_Int: 7
+I:  13
+I:  14
+I:  15
+I:  16
+I:  17
+Last_Int: 6
+I:  18
+I:  19
+I:  20
+I:  21
+I:  22
+I:  23
+I:  24
+I:  25
+I:  26
+I:  27
+I:  28
+I:  29
+I:  30
+Last_Int: 5
+I:  31
+Last_Int: 1
+I:  32
+I:  33
+Last_Int: 5
+I:  34
+I:  35
+Answer: 75
+String_Source: 5bqnlphone6
+I: zero
+String_Source: 5bqnlphone6
+I: one
+5bqnlphone6
+String_Source: 5bqnlph 1e6
+I: two
+String_Source: 5bqnlph 1e6
+I: three
+String_Source: 5bqnlph 1e6
+I: four
+String_Source: 5bqnlph 1e6
+I: five
+String_Source: 5bqnlph 1e6
+I: six
+String_Source: 5bqnlph 1e6
+I: seven
+String_Source: 5bqnlph 1e6
+I: eight
+String_Source: 5bqnlph 1e6
+I: nine
+I:  1
+First_Int: 5
+Last_Int: 5
+I:  2
+I:  3
+I:  4
+I:  5
+I:  6
+I:  7
+I:  8
+I:  9
+Last_Int: 1
+I:  10
+I:  11
+Last_Int: 6
+Answer: 56
+String_Source: 195one
+I: zero
+String_Source: 195one
+I: one
+195one
+String_Source: 195 1e
+I: two
+String_Source: 195 1e
+I: three
+String_Source: 195 1e
+I: four
+String_Source: 195 1e
+I: five
+String_Source: 195 1e
+I: six
+String_Source: 195 1e
+I: seven
+String_Source: 195 1e
+I: eight
+String_Source: 195 1e
+I: nine
+I:  1
+First_Int: 1
+Last_Int: 1
+I:  2
+Last_Int: 9
+I:  3
+Last_Int: 5
+I:  4
+I:  5
+Last_Int: 1
+I:  6
+Answer: 11
+ 56688
+[2023-12-30 14:48:32] process terminated successfully, elapsed time: 44.76s
