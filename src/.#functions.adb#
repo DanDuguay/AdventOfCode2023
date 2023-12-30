@@ -1,0 +1,11 @@
+with Ada.Strings.Fixed; use Ada.Strings.Fixed;
+
+package body functions is
+
+   function extract_and_add
+  (Line     : String) return Integer is
+   begin
+      Line
+      
+
+end functions;
