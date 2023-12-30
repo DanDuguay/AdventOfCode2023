@@ -14,7 +14,9 @@ procedure Advent_Code is
       type Num_Words is (zero, one, two, three, four, five, six, seven, eight,
                         nine);
    begin
-   end Find_and_Replace
+      for I in Num_Words loop
+
+   end Find_and_Replace;
 
 
    function Extract_And_Add
